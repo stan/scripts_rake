@@ -1,0 +1,3 @@
+rename
+    desc 'Renames a rails 3 application'
+    call 'rake rails:rename[MyNewAppName]'
